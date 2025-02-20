@@ -1,0 +1,6 @@
+com\tlaq\services\JdbcUtils.class
+com\tlaq\pojo\Category.class
+com\tlaq\pojo\Choice.class
+com\tlaq\jdbcdemo\JDBCDemo.class
+com\tlaq\pojo\Question.class
+com\tlaq\services\QuestionService.class
